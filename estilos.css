@@ -1,0 +1,15 @@
+body{color: 000000; font-family: Tahoma; background-color: grey;}
+img{}
+.imagenes{width: 1000px; height: 600px;}
+.estilo{text-decoration: underline; font-size: 25px; text-align: center;}
+header{letter-spacing: 2px; text-align: center; font-family: Tahoma; font-size: 30px;}
+h2{font-family: Arial; text-decoration: none; text-align: center;}
+#contenedor{width: 1000px; margin-left: auto;margin-right: auto; background-color: #959d8c; border-style: none;}
+#cuerpo{width: 1000px; margin-left: auto;margin-right: auto; background-color: #959d8c; border-style: none;}
+nav{width: 1000px; height: 50px margin-left: auto;margin-right: auto; background-color: white; border-style: none;}
+p{text-align: center; font-family: Arial;}
+footer{clear: both; text-align: right; font-family: Tahoma;}
+.imagenes2{width: 800px; height: 500px; margin-right: auto; margin-left: auto;}
+.decoracion{width: 1000px; height:1300px; }
+.Infografia{width: 1000px; height: 2500px;}
+.class{display: block; margin-left: auto; margin-right: auto;}
